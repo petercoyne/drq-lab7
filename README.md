@@ -1,3 +1,3 @@
 # Data Representation and Querying
-## Lab 6 Submission
+## Lab 7 Submission
 ### Peter Coyne (g00266507)
